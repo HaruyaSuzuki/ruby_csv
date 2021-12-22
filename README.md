@@ -1,7 +1,9 @@
 # ruby_csv
 ![](https://img.shields.io/badge/Ruby-861a22?style=for-the-badge&logo=ruby)
 
-## template liteal
+Learning Read & Parse CSV Files with Ruby.
+
+## template literal
 ```
 "[string] #{}"
 ```
